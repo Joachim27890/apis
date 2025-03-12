@@ -1,4 +1,4 @@
 export default function Home() {
   // Joachim
-  return <>Bruh</>;
+  return <>Hello bro</>;
 }
